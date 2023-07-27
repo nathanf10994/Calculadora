@@ -1,3 +1,9 @@
+<!-- 
+Pequeno projeto de calculadora feito em PHP
+Developed by Nathan Ferreira
+GitHub: nathanf10994
+-->
+
 <html>
     <body>
 
